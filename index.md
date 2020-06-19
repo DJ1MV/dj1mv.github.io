@@ -15,5 +15,5 @@ As DJ1MV said:
 > Es gibt nichts Gutes, 
 > außer man tut es.
 
-<img src= "https://s3.amazonaws.com/files.qrz.com/v/dj1mv/2020_DJ1MV.jpg"
+<img src= "https://s3.amazonaws.com/files.qrz.com/v/dj1mv/2020_DJ1MV.jpg"/>
 
