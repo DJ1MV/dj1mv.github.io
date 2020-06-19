@@ -9,4 +9,9 @@ The main location is the private home in JN58WG.
 * FM monitored on 145.525 MHz and 439.1625 MHz (local relay cluster)
 * QTH is JN58WG and there is a second QTH at lake Attersee
 * no mobile operation
-These are current conditions and can change without further notice.
+* these are current conditions and can change without further notice.
+
+As DJ1MV said:
+> Es gibt nichts Gutes, 
+> außer man tut es.
+
